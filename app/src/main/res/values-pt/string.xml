@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primeira App Android</string>
+    <string name="action_settings">Configurações</string>
+    <string name="edit_message">Mensagem</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_display_message">Minha mensagem</string>
+</resources>
